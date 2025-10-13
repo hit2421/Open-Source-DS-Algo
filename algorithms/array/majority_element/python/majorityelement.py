@@ -73,3 +73,5 @@ if __name__ == "__main__":
     print("\nInput:", nums3)
     print("Majority Element:", solver.majorityElement(nums3))  # Expected Output: None
 
+
+
